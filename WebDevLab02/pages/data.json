@@ -1,0 +1,42 @@
+[
+    {
+        "Movie": "Pretty Woman",
+        "Genre": "Rom-Com",
+        "Rating": 9,
+        "Description": "Pretty Woman is a romantic comedy about a wealthy businessman who hires a charming woman to accompany him to social events, only to develop a deep connection with her. As their relationship evolves, both characters confront their pasts and discover the transformative power of love.",
+        "Budget": 14.0,
+        "Duration (hrs)": 1.58
+    },
+    {
+        "Movie": "Clueless",
+        "Genre": "Rom-Com",
+        "Rating": 7,
+        "Description": "Clueless is a teen comedy that follows Cher Horowitz, a wealthy and popular high school student in Beverly Hills, as she navigates friendships, romance, and her own self-discovery. Through her efforts to play matchmaker and improve the lives of others, Cher learns valuable lessons about love, kindness, and self-awareness.",
+        "Budget": 12.0,
+        "Duration (hrs)": 1.37
+    },
+    {
+        "Movie": "Seven",
+        "Genre": "Crime",
+        "Rating": 8.9,
+        "Description": "Seven is a dark psychological thriller about two detectives, Mills and Somerset, who hunt down a serial killer whose murders are based on the seven deadly sins. As the investigation unfolds, the killer orchestrates a chilling and twisted conclusion that forces the detectives to confront their own moral dilemmas.",
+        "Budget": 33.0,
+        "Duration (hrs)": 2.03
+    },
+    {
+        "Movie": "The Matrix",
+        "Genre": "Sci-Fi",
+        "Rating": 8.4,
+        "Description": "The Matrix is a science fiction film that follows Neo, a hacker who discovers that reality as he knows it is a simulated illusion controlled by machines. With the help of a group of rebels, Neo must confront the machines and embrace his destiny.",
+        "Budget": 63.0,
+        "Duration (hrs)": 2.16
+    },
+    {
+        "Movie": "How to Lose a Guy in 10 Days",
+        "Genre": "Drama",
+        "Rating": 9.3,
+        "Description": "How to Lose a Guy in 10 Days is a romantic comedy about Andie Anderson, a magazine writer who is assigned to write an article on how to drive a man away in 10 days. She starts dating Ben Barry, a charming ad executive who is secretly trying to make a woman fall in love with him in the same timeframe to win a high-profile campaign.",
+        "Budget": 50.0,
+        "Duration (hrs)": 1.58
+    }
+  ]
