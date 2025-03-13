@@ -4,7 +4,7 @@ import pandas as pd
 
 # NEW
 def load_movie_data():
-    with open("data.json", "r") as file:
+    with open("pages/data.json", "r") as file:
         movies = json.load(file)
     return movies
 
